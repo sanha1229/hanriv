@@ -1,4 +1,4 @@
-<!-- © sanha1229, all rights reserved. -->
+<!-- Copyright (c) 2020-2022 sanha1229, all rights reserved. -->
 <!DOCTYPE html>
 <html>
     <head>
